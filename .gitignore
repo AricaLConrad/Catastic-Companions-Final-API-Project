@@ -1,0 +1,3 @@
+# Ignore the file that contains my secret key.
+# I am following this source: https://www.freecodecamp.org/news/gitignore-what-is-it-and-how-to-add-to-repo/
+.env

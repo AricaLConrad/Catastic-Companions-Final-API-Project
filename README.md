@@ -8,9 +8,19 @@ March 16, 2022
 
 Final API Project
 
-## Introduction
+## What is Catastic Companions?
 
 This is my final project for my BIT 465 - REST API Development class. Catastic Companions is an API for a fictitious local cat shelter and is only used internally. The API keeps track of all the cats the shelter has hosted, including the cats who were adopted. The shelter staff members can register a new account and log in to the system, where they are then able to view all the cats, edit the cats, and delete the cats.
+
+## Other Project Files
+
+- To view a PowerPoint with screenshots of my API, please look at this file: <https://github.com/AricaLConrad/Catastic-Companions-Final-API-Project/blob/d9b188300f902b08c9b2b2dd08af5cee97363dc5/Conrad%20Final%20API%20Project%20Screenshots.pptx>
+- To view the PowerPoint I used when presenting my API during class, please look at this file: <https://github.com/AricaLConrad/Catastic-Companions-Final-API-Project/blob/d9b188300f902b08c9b2b2dd08af5cee97363dc5/Conrad%20Final%20API%20Project%20Presentation.pptx>
+- To view the Word document that contains my proposed API design, please look at this file: <https://github.com/AricaLConrad/Catastic-Companions-Final-API-Project/blob/d9b188300f902b08c9b2b2dd08af5cee97363dc5/Conrad%20Final%20Project%20-%20Web%20Service%20API.docx>
+- To view the Word document that contains my proposed web design, please look at this file: <https://github.com/AricaLConrad/Catastic-Companions-Final-API-Project/blob/d9b188300f902b08c9b2b2dd08af5cee97363dc5/Conrad%20Final%20Project%20-%20Web%20App%20Design.docx>
+- All the rest of the files relate to my API's code.
+
+Thank you for visiting my repository!
 
 ## Project Requirements
 
